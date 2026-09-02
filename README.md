@@ -23,22 +23,22 @@
 
 #### Mobile & Native Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,androidstudio,cmake,unity" />
 </p>
 
 #### Web Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,laravel,react,vite" />
 </p>
 
 #### Backend, Automation & Security Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,php,bash" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,bash,cloudflare,bots,github,py" />
 </p>
 
 #### Database, DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git" />
 </p>
 
 <div align="center">
