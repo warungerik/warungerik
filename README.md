@@ -4,10 +4,6 @@
 
   <h3>Full-Stack & Android Developer | Modding & Security</h3>
 
-  <p>
-    <i>"Hanya Orang Gabut Yang Suka Belajar & Eksplorasi Hal Baru"</i>
-  </p>
-
   <a href="https://warungerik.com">
     <img src="https://img.shields.io/badge/Website-warungerik.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
