@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/RkgfXhcewvoAAAAd/rui-tachibana-tachibana-rui.gif" width="200" alt="Showcase GIF" />
+  <img src="https://media1.tenor.com/m/RkgfXhcewvoAAAAd/rui-tachibana-tachibana-rui.gif" width="350" alt="Showcase GIF" />
 </div>
   <h3>Full-Stack & Android Developer | Modding & Security</h3>
 
@@ -12,9 +12,6 @@
 </div>
 
 <br/>
-
-### Tech Stack & Skills
-
 #### Mobile & Native Systems
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,androidstudio,cmake,unity" />
