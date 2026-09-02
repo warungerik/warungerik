@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Website-warungerik.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://t.me/warung_erik">
-    <img src="https://img.shields.io/badge/Telegram-@warung__erik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3488/3488463.png" />
   </a>
 </div>
 
