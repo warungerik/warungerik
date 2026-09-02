@@ -41,22 +41,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,linux,vscode" />
 </p>
 
-### GitHub Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=warungerik&show_icons=true&theme=dark&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=warungerik&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warungerik&theme=dark&hide_border=true" />
-</div>
-
 <div align="center">
   <sub><i>Dedicated to building awesome open-source projects, APIs & Android automation tools.</i></sub>
 </div>
