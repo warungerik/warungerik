@@ -35,5 +35,5 @@
 </p>
 
 <div align="center">
-  <sub><i>Dedicated to building awesome open-source projects, APIs & Android automation tools.</i></sub>
+  <sub><i>just someone who wants to know all about the digital world who really likes to learn more about the digital world.</i></sub>
 </div>
