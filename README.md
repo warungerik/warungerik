@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/RkgfXhcewvoAAAAd/rui-tachibana-tachibana-rui.gif" width="350" alt="Showcase GIF" />
+  <img src="https://media1.tenor.com/m/IGpnCm48MPoAAAAC/eye-twitch-anger.gif" width="350" alt="Showcase GIF" />
 </div>
   <h3>Full-Stack & Android Developer | Modding & Security</h3>
 
