@@ -36,8 +36,3 @@
 <div align="center">
   <sub><i>Dedicated to building awesome open-source projects, APIs & Android automation tools.</i></sub>
 </div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false" />
-</div>
