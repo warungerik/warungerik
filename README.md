@@ -1,7 +1,6 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=200&section=header&text=Erik%20Galih%20Pratama&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
-
+  <img src="https://media1.tenor.com/m/RkgfXhcewvoAAAAd/rui-tachibana-tachibana-rui.gif" width="200" alt="Showcase GIF" />
+</div>
   <h3>Full-Stack & Android Developer | Modding & Security</h3>
 
   <a href="https://warungerik.com">
@@ -41,9 +40,6 @@
 </div>
 
 <br/>
-<div align="center">
-  <img src="https://media1.tenor.com/m/RkgfXhcewvoAAAAd/rui-tachibana-tachibana-rui.gif" width="100%" alt="Showcase GIF" />
-</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=100&section=footer" width="100%" />
 </div>
