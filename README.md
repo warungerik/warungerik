@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/F2HhaqwOMcwAAAAC/rui.gif" width="350" alt="Showcase GIF" />
 </div>
-  <h3>Full-Stack & Android Developer | Modding & Security</h3>
 
   <a href="https://warungerik.com">
     <img src="https://img.shields.io/badge/Website-warungerik.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -13,22 +12,22 @@
 
 <br/>
 
-#### Mobile & Native Systems
+<h3>Mobile & Native System</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,androidstudio,cmake,unity" />
 </p>
 
-#### Web Frontend
+<h3>Web Frontend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,laravel,vite" />
 </p>
 
-#### Backend, Automation & Security Scripting
+<h3>Backend, Automation & Security Scripting</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,bash,cloudflare,bots,github,py" />
 </p>
 
-#### Database, DevOps & Tools
+<h3>Database, DevOps & Tool</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git" />
 </p>
