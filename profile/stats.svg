@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Erik Galih Pratama&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 100, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 33, Total Commits  (last year) : 100, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 206.27801873458904;
+        stroke-dashoffset: 200.89483453566672;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >25</text>
+      >33</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
