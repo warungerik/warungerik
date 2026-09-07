@@ -32,6 +32,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git" />
 </p>
+<br/>
+<h3>GitHub Activity</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=warungerik&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warungerik&layout=compact&langs_count=6&theme=radical&hide_border=true" height="165" />
+</p>
 </div>
 <div align="center">
   <sub><i>Dedicated to building awesome open-source projects, APIs & Android automation tools.</i></sub>
