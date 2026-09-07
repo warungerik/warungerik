@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile/banner.gif" width="350" alt="WARUNGERIK" />
+  <img src="https://files.catbox.moe/y2ae32.gif" width="350" alt="WARUNGERIK" />
 </div>
 
 <div align="center">
