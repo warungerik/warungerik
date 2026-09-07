@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/F2HhaqwOMcwAAAAC/rui.gif" width="350" alt="Showcase GIF" />
+  <img src="https://files.catbox.moe/u9n98g.gif" width="350" alt="WARUNGERIK" />
 </div>
 
 <div align="center">
