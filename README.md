@@ -35,9 +35,10 @@
 <br/>
 <h3>GitHub Activity</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=warungerik&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warungerik&layout=compact&langs_count=6&theme=radical&hide_border=true" height="165" />
+  <img src="./profile/stats.svg" alt="warungerik github stats" height="165" />
+  <img src="./profile/top-langs.svg" alt="top languages" height="165" />
 </p>
+</div>
 </div>
 <div align="center">
   <sub><i>Dedicated to building awesome open-source projects, APIs & Android automation tools.</i></sub>
