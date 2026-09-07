@@ -2,7 +2,7 @@ name: Generate Readme Stats
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"
+    - cron: "0 0,19 * * *"
   workflow_dispatch:
 
 jobs:
